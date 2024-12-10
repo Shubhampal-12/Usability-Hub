@@ -47,7 +47,7 @@ body{
  }
  .hover-links:hover{
    color: #fff;
-   /* color: var(--accent-color); */
+   color: var(--accent-color);
  }
  .secondary-button{
   color: var(--primary--text);
